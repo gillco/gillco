@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gillco
 - 👀 I’m over at Mastadon
 - 🌱 infosec.exchange/@swabbie
-- 💞️ I’m looking to collaborate on fun open source tech
+- 💞️ I’m looking to collaborate on fun open source tech and I'm #lfg
 - 📫 Feel free to say hi
 
 <!---
